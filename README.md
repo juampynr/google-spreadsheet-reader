@@ -1,4 +1,4 @@
-## Google Spreadhseet Reader
+## Google Spreadsheet Reader
 
 This project contains a sample script that uses a service account
 to authenticate against Google Spreadsheets in order to read
